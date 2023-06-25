@@ -8,7 +8,6 @@ let isHorizontal = false;
 let muted = false;
 let fullscreenActive = false;
 
-
 /**
  * Start game, set world..
  */
